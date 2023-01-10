@@ -16,7 +16,7 @@ This project is a fun and interactive game built with ReactJS to demonstrate use
 - github-pages
 
 ## Screenshots
-![Game Views](./src/project-thumbnail.jpg)
+![Game Views](./src/project-thumbnail.png)
 
 ## Installation
 To get started, you'll need to have Node.js and npm (Node Package Manager) installed on your computer.
@@ -27,8 +27,10 @@ To get started, you'll need to have Node.js and npm (Node Package Manager) insta
 - Run npm start to start the development server and visit http://localhost:3000 to view the app in your browser
 
 ## Optimizations
--
--
+- Put real dots on the dice
+- Save user's best rolls to localStorage
+- Track the time it took to win
+- Save user's best time to localStorage
 
 ## Contributing
 Please feel free to fork this repository and submit pull requests with any improvements or suggestions you may have.
