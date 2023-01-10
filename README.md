@@ -1,4 +1,4 @@
-![RapidRoll Banner](./src/readme-banner.png)
+![RapidRoll Banner](./src/readmebanner.png)
 
 # Rapid Roll 
 Welcome to the Rapid-Roll repository! 
