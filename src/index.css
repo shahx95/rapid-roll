@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  /* border: solid 2px greenyellow;
+  height: 100vh; */
+  background-color: #0b2434;
+  padding: 20px;
+  font-family: "Open Sans", sans-serif;
+  min-width: 375px;
+}
