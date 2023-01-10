@@ -14,6 +14,9 @@ This project is a fun and interactive game built with ReactJS to demonstrate use
 - React Hooks(useEffect)
 - github-pages
 
+## Screenshots
+![Game Views](./src/project-thumbnail.jpg)
+
 ## Installation
 To get started, you'll need to have Node.js and npm (Node Package Manager) installed on your computer.
 
