@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rapid-roll/static/css/main.66a9530b.css",
+    "main.js": "/rapid-roll/static/js/main.5ff6fb4e.js",
+    "index.html": "/rapid-roll/index.html",
+    "main.66a9530b.css.map": "/rapid-roll/static/css/main.66a9530b.css.map",
+    "main.5ff6fb4e.js.map": "/rapid-roll/static/js/main.5ff6fb4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a9530b.css",
+    "static/js/main.5ff6fb4e.js"
+  ]
+}
